@@ -16,6 +16,11 @@
     Teniendo los fundamentos de la programacion y segui estudiando de manera autodidacta mediante foros, documentacion y videos, el lenguaje de 
     programacion JavaScript. Luego de un año de puro estudio consegui mi primer empleo como programador en Key Data.
   <p/>
+  <p>
+    📩 Contacto: nahuelblangetti@gmail.com
+     <br/>
+    📎 Portafolio: https://nahuelblangetti.github.io/Portafolio/
+  </p>
 </div>
 
 <div>
@@ -31,6 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQl" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
 </div>

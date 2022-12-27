@@ -1,12 +1,23 @@
-<h1>
-  👋 Hola, soy Nahuel Blangetti. 
-</h1>
-Soy Desarrollador Full Stack con aproximadamente 2 año de experiencia en el desarrollo de aplicaciones web.
-🧑‍💼 Actualmente estoy trabajando, y en mis tiempos libres estudio/practico el stack "MERN", estoy en pleno desarrollo de una app con dichas 
-herramientas.
-💻 Mi pasion por la programacion comenzo en mi primer año de Ingenieria en Sistemas de Informacion. Con el lenguaje Python aprendi los fundamentos
-basicos y segui mis practicas con JavaScript.
-💼 En mi portafolio https://nahuelblangetti.github.io/Portafolio/ puede obtener mas Detalles sobre mi!
+<div align="center">
+  <img src="https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif" width="350" height="200"/>
+  <h1>
+  👋 Soy Nahuel Blangetti 👋  
+  </h1>
+  <h3>
+    Desarrollador Full Stack con aproximadamente 2 año de experiencia en el desarrollo de aplicaciones web, actualmente trabajo en Key Data.
+  </h3>
+</div>
+<div>
+  <p>
+    Comence a programar en la Universidad Tecnologia Nacional de Cordoba en la carrera Ingenieria en Sistemas de Informacion, aprendi a programar con
+    Python.
+  <p/>
+  <p>
+    Aprendiendo los fundamentos de la programacion y segui estudiando de manera autodidacta mediante foros, documentacion y videos, el lenguaje de 
+    programacion JavaScript. Luego de un año de puro estudio consegui mi primer empleo como programador en Key Data.
+  <p/>
+  <p>
+  </p>
+</div>
 
-
-🥳 Hasta pronto 😶‍🌫️ 
+💼 https://nahuelblangetti.github.io/Portafolio/

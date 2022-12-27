@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif" width="350" height="200"/>
   <h1>
-  👋 Soy Nahuel Blangetti 👋  
+    👋 Hola, soy Nahuel Blangetti 👋  
   </h1>
   <h3>
     Desarrollador Full Stack con aproximadamente 2 año de experiencia en el desarrollo de aplicaciones web, actualmente trabajo en Key Data.

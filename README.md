@@ -13,7 +13,7 @@
     Python.
   <p/>
   <p>
-    Teniendo los fundamentos de la programacion y segui estudiando de manera autodidacta mediante foros, documentacion y videos, el lenguaje de 
+    Teniendo los fundamentos de la programacion segui estudiando de manera autodidacta mediante foros, documentacion y videos, el lenguaje de 
     programacion JavaScript. Luego de un año de puro estudio consegui mi primer empleo como programador en Key Data.
   <p/>
   <p>

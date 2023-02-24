@@ -18,6 +18,10 @@
     framework Laravel, simultáneamente estudiaba SQL y bases de datos.
   <p/>
   <p>
+    Mi objetivo es seguir creciendo tanto en experiencia laboral como en conocimientos de nuevas tecnologías y tambien es dedicarme en el area de Machine
+    Learning.
+  <p/>
+  <p>
     📩 Contacto: nahuelblangetti@gmail.com
      <br/>
     📎 Portafolio: https://nahuelblangetti.github.io/Portafolio/

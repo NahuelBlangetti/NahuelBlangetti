@@ -15,7 +15,7 @@
   <p>
     Teniendo los fundamentos de la programacion segui estudiando de manera autodidacta mediante foros, documentacion y videos el lenguaje JavaScript.
     Luego de un año de puro estudio consegui mi primer empleo como programador en Key Data, donde tuve la oportunidad de aprender PHP mediante el
-    framework Laravel, simultáneamente estudiaba Sql y bases de datos.
+    framework Laravel, simultáneamente estudiaba SQL y bases de datos.
   <p/>
   <p>
     📩 Contacto: nahuelblangetti@gmail.com

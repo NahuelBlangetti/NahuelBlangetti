@@ -4,7 +4,7 @@
     👋 Hola, soy Nahuel Blangetti 👋  
   </h1>
   <h3>
-    Desarrollador Full Stack con aproximadamente 2 año de experiencia en el desarrollo de aplicaciones web, actualmente trabajo en Key Data.
+    Desarrollador Full Stack con aproximadamente 3 año de experiencia en el desarrollo de aplicaciones web, actualmente trabajo en Key Data.
   </h3>
 </div>
 <div>

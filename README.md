@@ -1,30 +1,29 @@
 <div align="center">
   <img src="https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif" width="350" height="200"/>
   <h1>
-    👋 Hola, soy Nahuel Blangetti 👋  
+    👋 Hi, i am Nahuel Blangetti 👋  
   </h1>
   <h3>
-    Desarrollador Full Stack con aproximadamente 3 año de experiencia en el desarrollo de aplicaciones web, actualmente trabajo en Key Data.
+    Full Stack developer with approximately 3 years of experience in web application development, currently working at Zyla Labs.
   </h3>
 </div>
 <div>
   <p>
-    Comence mis estudios en la Universidad Tecnologia Nacional de Cordoba en la carrera Ingenieria en Sistemas de Informacion donde aprendi a programar
-    con Python.
+    I began my studies at the National Technological University of Cordoba in the Information Systems Engineering degree where I learned to program with 
+    Python.
   <p/>
   <p>
-    Teniendo los fundamentos de la programacion segui estudiando de manera autodidacta mediante foros, documentacion y videos el lenguaje JavaScript.
-    Luego de un año de puro estudio consegui mi primer empleo como programador en Key Data, donde tuve la oportunidad de aprender PHP mediante el
-    framework Laravel, simultáneamente estudiaba SQL y bases de datos.
+      Having the fundamentals of programming, continuing to study the JavaScript language self-taught through forums, documentation and videos.
+      After a year of pure study, I got my first job as a programmer at Key Data, where I had the opportunity to learn PHP through
+      Laravel Framework, simultaneously studying SQL and databases.
   <p/>
   <p>
-    Mi objetivo es seguir creciendo tanto en experiencia laboral como en conocimientos de nuevas tecnologías y tambien es dedicarme en el area de Machine
-    Learning.
+My goal is to continue growing both in work experience and knowledge of new technologies and is also to dedicate myself to Machine Learning.
   <p/>
   <p>
-    📩 Contacto: nahuelblangetti@gmail.com
+    📩 Contact: nahuelblangetti@gmail.com
      <br/>
-    📎 Portafolio: https://nahuelblangetti.github.io/Portafolio/
+    📎 Portfolio: https://nahuelblangetti.github.io/Portafolio/
   </p>
 </div>
 

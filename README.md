@@ -9,7 +9,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel.svg" title="Laravel" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu Linux" width="40" height="40"/>

@@ -19,7 +19,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
   </div>
   <h3>
-    Full Stack developer with approximately 3 years of experience in web application development, currently working at Zyla Labs.
+    Full Stack developer with approximately 4 years of experience in web application development, currently working at Zyla Labs.
   </h3>
 </div>
 <div>
